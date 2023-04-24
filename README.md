@@ -9,6 +9,6 @@ This convert bmp to text with tesseract.
 - run    
     - cmd>npm start
 
-## contact
+## references
 
-  If you need to contact me, you can do it at the email faco0909@outlook.com
+  - 
